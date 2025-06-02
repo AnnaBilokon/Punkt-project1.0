@@ -14,6 +14,7 @@ export const GOOGLE_BOOKS_CONFIG = {
 	  description?: string;
 	  averageRating?: number;
 	  publishedDate?: string;
+	  pageCount?: number;
 	};
   };
   
